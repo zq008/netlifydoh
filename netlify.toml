@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/dns-query"
+to = "http://dns.google/dns-query"
+status = 200
+force = true
