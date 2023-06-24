@@ -1,5 +1,5 @@
 [[redirects]]
 from = "/dns-query"
-to = "http://dns.google/dns-query"
+to = "https://dns.google"
 status = 200
 force = true
